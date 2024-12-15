@@ -7,4 +7,4 @@ USER_HOST: user.lingaiah.online
 CART_HOST: cart.lingaiah.online
 SHIPPING_HOST: shipping.lingaiah.online
 PAYMENT_HOST: payment.lingaiah.online
-#DISPATCH_HOST: dispatch.lingaiah.online
+DISPATCH_HOST: dispatch.lingaiah.online
